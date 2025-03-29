@@ -1,0 +1,24 @@
+{
+  "name": "deplo",
+  "version": "1.0.0",
+  "description": "Projeto mobile",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "author": "Arpan Neupane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojefferson/apiProjMob.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rojefferson/apiProjMob/issues"
+  },
+  "homepage": "https://github.com/rojefferson/apiProjMob#readme"
+}
